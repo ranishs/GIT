@@ -1,0 +1,28 @@
+C:\Users\Krishnamathi\AppData\Local\Temporary Projects\RetailManagement\bin\Debug\RetailManagement.exe
+C:\Users\Krishnamathi\AppData\Local\Temporary Projects\RetailManagement\bin\Debug\RetailManagement.pdb
+C:\Users\Krishnamathi\AppData\Local\Temporary Projects\RetailManagement\bin\Debug\RetailManagement.xml
+C:\Users\Krishnamathi\AppData\Local\Temporary Projects\RetailManagement\obj\x86\Debug\RetailManagement.vbproj.ResolveComReference.cache
+C:\Users\Krishnamathi\AppData\Local\Temporary Projects\RetailManagement\obj\x86\Debug\RetailManagement.Resources.resources
+C:\Users\Krishnamathi\AppData\Local\Temporary Projects\RetailManagement\obj\x86\Debug\RetailManagement.vbproj.GenerateResource.Cache
+C:\Users\Krishnamathi\AppData\Local\Temporary Projects\RetailManagement\obj\x86\Debug\RetailManagement.exe
+C:\Users\Krishnamathi\AppData\Local\Temporary Projects\RetailManagement\obj\x86\Debug\RetailManagement.xml
+C:\Users\Krishnamathi\AppData\Local\Temporary Projects\RetailManagement\obj\x86\Debug\RetailManagement.pdb
+C:\Users\Krishnamathi\AppData\Local\Temporary Projects\RetailManagement\obj\x86\Debug\RetailManagement.frmLogin.resources
+C:\Users\Krishnamathi\AppData\Local\Temporary Projects\RetailManagement\obj\x86\Debug\RetailManagement.FrmMain.resources
+C:\Ranish\AAD\BranchOrder\BranchOrder\RetailManagement\obj\x86\Debug\RetailManagement.vbproj.ResolveComReference.cache
+C:\Ranish\AAD\BranchOrder\BranchOrder\RetailManagement\obj\x86\Debug\RetailManagement.exe
+C:\Ranish\AAD\BranchOrder\BranchOrder\RetailManagement\obj\x86\Debug\RetailManagement.xml
+C:\Ranish\AAD\BranchOrder\BranchOrder\RetailManagement\obj\x86\Debug\RetailManagement.pdb
+C:\Ranish\AAD\BranchOrder\BranchOrder\RetailManagement\obj\x86\Debug\RetailManagement.frmLogin.resources
+C:\Ranish\AAD\BranchOrder\BranchOrder\RetailManagement\obj\x86\Debug\RetailManagement.FrmMain.resources
+C:\Ranish\AAD\BranchOrder\BranchOrder\RetailManagement\obj\x86\Debug\RetailManagement.frmusrmaster.resources
+C:\Ranish\AAD\BranchOrder\BranchOrder\RetailManagement\obj\x86\Debug\RetailManagement.Resources.resources
+C:\Ranish\AAD\BranchOrder\BranchOrder\RetailManagement\obj\x86\Debug\RetailManagement.vbproj.GenerateResource.Cache
+C:\Ranish\AAD\BranchOrder\BranchOrder\RetailManagement\bin\Debug\RetailManagement.exe.config
+C:\Ranish\AAD\BranchOrder\BranchOrder\RetailManagement\bin\Debug\RetailManagement.exe
+C:\Ranish\AAD\BranchOrder\BranchOrder\RetailManagement\bin\Debug\RetailManagement.pdb
+C:\Ranish\AAD\BranchOrder\BranchOrder\RetailManagement\bin\Debug\RetailManagement.xml
+C:\Ranish\AAD\BranchOrder\BranchOrder\RetailManagement\obj\x86\Debug\RetailManagement.frmSyncData.resources
+C:\Ranish\AAD\BranchOrder\BranchOrder\RetailManagement\obj\x86\Debug\RetailManagement.frmItemmaster.resources
+C:\Ranish\AAD\BranchOrder\BranchOrder\RetailManagement\obj\x86\Debug\RetailManagement.frmViewOrder.resources
+C:\Ranish\AAD\BranchOrder\BranchOrder\RetailManagement\obj\x86\Debug\RetailManagement.frmWorkOrderGeneration.resources
